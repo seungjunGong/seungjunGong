@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseungjunGong&count_bg=%23FFDBCC&title_bg=%23FCB9AA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Seungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjunGong&show_icons=true&theme=radical)
+![Seungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjunGong&show_icons=true&theme=vue)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjw5741)](https://solved.ac/jjw5741/)
 # 💪Skills
 ### Platforms & Languages
